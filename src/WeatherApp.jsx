@@ -1,5 +1,5 @@
 import { dividerClasses } from "@mui/material/Divider";
-import SearchBox from "./searchbox"
+import SearchBox from "./SearchBox";
 import InfoBox from "./InfoBox";
 import { useState } from "react";
 
