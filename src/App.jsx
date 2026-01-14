@@ -1,5 +1,5 @@
 // import './App.css'
-import SearchBox from "./searchbox"
+import SearchBox from "./SearchBox.jsx";
 import InfoBox from "./InfoBox";
 import WeatherApp from "./WeatherApp";
 
